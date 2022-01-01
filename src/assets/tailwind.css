@@ -1,0 +1,22 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Fira+Sans:wght@300&family=Sora:wght@400;600;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bangla{
+     font-family: 'SolaimanLipi', Poppins, sans-serif !important;
+}
+.sora{
+    
+font-family: 'Sora', sans-serif;
+}
+.amiri{
+      font-family: 'Amiri', serif;
+}
+.fira{
+     
+font-family: 'Fira Sans', sans-serif;
+}
